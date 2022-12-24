@@ -5,6 +5,7 @@ repo: njc-uptime # The name of this repository
 sites:
   - name: NJC Website
     url: https://www.notjustcomputers.co.uk
+    icon: https://www.notjustcomputers.co.uk/favicon.ico
   - name: NJC Web01
     url: https://njcweb01.njcserver.com
   - name: NJC Web02
