@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2062,
-    "timeDay": 2062,
-    "timeWeek": 2062,
-    "timeMonth": 2062,
-    "timeYear": 2062,
+    "time": 1974,
+    "timeDay": 1974,
+    "timeWeek": 1974,
+    "timeMonth": 1974,
+    "timeYear": 1974,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 649,
-    "timeDay": 649,
-    "timeWeek": 649,
-    "timeMonth": 649,
-    "timeYear": 649,
+    "time": 613,
+    "timeDay": 613,
+    "timeWeek": 613,
+    "timeMonth": 613,
+    "timeYear": 613,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 752,
-    "timeDay": 752,
-    "timeWeek": 752,
-    "timeMonth": 752,
-    "timeYear": 752,
+    "time": 715,
+    "timeDay": 715,
+    "timeWeek": 715,
+    "timeMonth": 715,
+    "timeYear": 715,
     "dailyMinutesDown": {}
   },
   {
@@ -64,31 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 484,
-    "timeDay": 484,
-    "timeWeek": 484,
-    "timeMonth": 484,
-    "timeYear": 484,
+    "time": 444,
+    "timeDay": 444,
+    "timeWeek": 444,
+    "timeMonth": 444,
+    "timeYear": 444,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "npm",
-    "url": "https://npmadmin.dock01.njcserver.com/login",
-    "icon": "https://icons.duckduckgo.com/ip3/npmadmin.dock01.njcserver.com.ico",
-    "slug": "npm",
-    "status": "down",
-    "uptime": "6.08%",
-    "uptimeDay": "6.08%",
-    "uptimeWeek": "6.08%",
-    "uptimeMonth": "6.08%",
-    "uptimeYear": "6.08%",
-    "time": 329,
-    "timeDay": 329,
-    "timeWeek": 329,
-    "timeMonth": 329,
-    "timeYear": 329,
-    "dailyMinutesDown": {
-      "2022-12-24": 0
-    }
   }
 ]
