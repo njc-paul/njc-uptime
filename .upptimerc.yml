@@ -10,6 +10,10 @@ sites:
     url: https://njcweb01.njcserver.com
   - name: NJC Web02
     url: https://njcweb02.njcserver.com
+  - name: cf tunnel
+    url: https://dock01.njctunnel.net/login
+  - name: npm
+    url: https://npmadmin.dock01.njcserver.com/login
  
 
 status-website:
