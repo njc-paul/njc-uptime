@@ -21,7 +21,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: NJC Service Status
   introTitle: "**NJC Service Status**"
-  introMessage: keeping you up to date with the status of our services
+  introMessage: Keeping you up to date with the status of our services in real-time.
   navbar:
     - title: Status
       href: /
