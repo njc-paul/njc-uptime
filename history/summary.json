@@ -40,9 +40,9 @@
     "url": "https://njcweb02.njcserver.com",
     "icon": "https://icons.duckduckgo.com/ip3/njcweb02.njcserver.com.ico",
     "slug": "njc-web02",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 765,
     "timeMonth": 747,
     "timeYear": 747,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   },
   {
     "name": "cf tunnel",
