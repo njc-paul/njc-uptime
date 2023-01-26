@@ -4,18 +4,20 @@
     "url": "https://www.notjustcomputers.co.uk",
     "icon": "https://www.notjustcomputers.co.uk/favicon.ico",
     "slug": "njc-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1926,
-    "timeDay": 2282,
-    "timeWeek": 2004,
-    "timeMonth": 1905,
-    "timeYear": 1926,
-    "dailyMinutesDown": {}
+    "time": 1894,
+    "timeDay": 1465,
+    "timeWeek": 1835,
+    "timeMonth": 1866,
+    "timeYear": 1894,
+    "dailyMinutesDown": {
+      "2023-01-26": 0
+    }
   },
   {
     "name": "NJC Web01",
@@ -47,7 +49,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 738,
-    "timeDay": 566,
+    "timeDay": 718,
     "timeWeek": 740,
     "timeMonth": 732,
     "timeYear": 738,
