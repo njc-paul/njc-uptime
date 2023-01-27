@@ -5,19 +5,17 @@
     "icon": "https://www.notjustcomputers.co.uk/favicon.ico",
     "slug": "njc-website",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1885,
-    "timeDay": 1487,
-    "timeWeek": 1801,
-    "timeMonth": 1855,
-    "timeYear": 1885,
-    "dailyMinutesDown": {
-      "2023-01-26": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1889,
+    "timeDay": 1414,
+    "timeWeek": 1779,
+    "timeMonth": 1851,
+    "timeYear": 1889,
+    "dailyMinutesDown": {}
   },
   {
     "name": "NJC Web01",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 609,
-    "timeDay": 755,
-    "timeWeek": 622,
-    "timeMonth": 600,
-    "timeYear": 609,
+    "time": 612,
+    "timeDay": 741,
+    "timeWeek": 618,
+    "timeMonth": 604,
+    "timeYear": 612,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 738,
-    "timeDay": 718,
+    "time": 742,
+    "timeDay": 914,
     "timeWeek": 740,
     "timeMonth": 732,
-    "timeYear": 738,
+    "timeYear": 742,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 572,
-    "timeDay": 625,
-    "timeWeek": 616,
-    "timeMonth": 574,
-    "timeYear": 572,
+    "time": 577,
+    "timeDay": 770,
+    "timeWeek": 619,
+    "timeMonth": 572,
+    "timeYear": 577,
     "dailyMinutesDown": {}
   }
 ]
