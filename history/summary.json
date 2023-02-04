@@ -58,17 +58,19 @@
     "url": "https://dock01.njctunnel.net/login",
     "icon": "https://icons.duckduckgo.com/ip3/dock01.njctunnel.net.ico",
     "slug": "cf-tunnel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 580,
-    "timeDay": 658,
-    "timeWeek": 587,
-    "timeMonth": 580,
-    "timeYear": 580,
-    "dailyMinutesDown": {}
+    "time": 570,
+    "timeDay": 384,
+    "timeWeek": 527,
+    "timeMonth": 565,
+    "timeYear": 570,
+    "dailyMinutesDown": {
+      "2023-02-04": 0
+    }
   }
 ]
