@@ -4,19 +4,19 @@
     "url": "https://www.notjustcomputers.co.uk",
     "icon": "https://www.notjustcomputers.co.uk/favicon.ico",
     "slug": "njc-website",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1950,
-    "timeDay": 2649,
-    "timeWeek": 2310,
-    "timeMonth": 1942,
-    "timeYear": 1950,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 2003,
+    "timeDay": 3643,
+    "timeWeek": 2601,
+    "timeMonth": 2021,
+    "timeYear": 2003,
     "dailyMinutesDown": {
-      "2023-02-04": 7
+      "2023-02-04": 12
     }
   },
   {
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/njcweb01.njcserver.com.ico",
     "slug": "njc-web01",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 769,
     "timeDay": 4371,
     "timeWeek": 1557,
     "timeMonth": 839,
     "timeYear": 769,
-    "dailyMinutesDown": {
-      "2023-02-04": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "NJC Web02",
@@ -45,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/njcweb02.njcserver.com.ico",
     "slug": "njc-web02",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 745,
     "timeDay": 743,
     "timeWeek": 743,
     "timeMonth": 736,
     "timeYear": 745,
     "dailyMinutesDown": {
-      "2023-02-04": 14
+      "2023-02-04": 19
     }
   },
   {
@@ -65,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dock01.njctunnel.net.ico",
     "slug": "cf-tunnel",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "96.79%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.91%",
+    "uptimeDay": "96.38%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.91%",
     "time": 570,
     "timeDay": 384,
     "timeWeek": 527,
     "timeMonth": 565,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2023-02-04": 46
+      "2023-02-04": 52
     }
   }
 ]
