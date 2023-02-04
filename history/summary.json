@@ -4,10 +4,10 @@
     "url": "https://www.notjustcomputers.co.uk",
     "icon": "https://www.notjustcomputers.co.uk/favicon.ico",
     "slug": "njc-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1950,
@@ -15,17 +15,19 @@
     "timeWeek": 2310,
     "timeMonth": 1942,
     "timeYear": 1950,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-04": 1
+    }
   },
   {
     "name": "NJC Web01",
     "url": "https://njcweb01.njcserver.com",
     "icon": "https://icons.duckduckgo.com/ip3/njcweb01.njcserver.com.ico",
     "slug": "njc-web01",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 619,
@@ -33,7 +35,9 @@
     "timeWeek": 645,
     "timeMonth": 610,
     "timeYear": 619,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-04": 1
+    }
   },
   {
     "name": "NJC Web02",
@@ -41,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/njcweb02.njcserver.com.ico",
     "slug": "njc-web02",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 745,
     "timeDay": 743,
     "timeWeek": 743,
     "timeMonth": 736,
     "timeYear": 745,
     "dailyMinutesDown": {
-      "2023-02-04": 0
+      "2023-02-04": 8
     }
   },
   {
@@ -61,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dock01.njctunnel.net.ico",
     "slug": "cf-tunnel",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "97.73%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.93%",
+    "uptimeDay": "97.21%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.93%",
     "time": 570,
     "timeDay": 384,
     "timeWeek": 527,
     "timeMonth": 565,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2023-02-04": 33
+      "2023-02-04": 40
     }
   }
 ]
