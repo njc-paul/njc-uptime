@@ -5,19 +5,17 @@
     "icon": "https://www.notjustcomputers.co.uk/favicon.ico",
     "slug": "njc-website",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2003,
     "timeDay": 3643,
     "timeWeek": 2601,
     "timeMonth": 2021,
     "timeYear": 2003,
-    "dailyMinutesDown": {
-      "2023-02-04": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "NJC Web01",
@@ -42,19 +40,19 @@
     "url": "https://njcweb02.njcserver.com",
     "icon": "https://icons.duckduckgo.com/ip3/njcweb02.njcserver.com.ico",
     "slug": "njc-web02",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 745,
-    "timeDay": 743,
-    "timeWeek": 743,
-    "timeMonth": 736,
-    "timeYear": 745,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "94.91%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.88%",
+    "time": 747,
+    "timeDay": 805,
+    "timeWeek": 758,
+    "timeMonth": 740,
+    "timeYear": 747,
     "dailyMinutesDown": {
-      "2023-02-04": 19
+      "2023-02-04": 73
     }
   },
   {
@@ -63,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dock01.njctunnel.net.ico",
     "slug": "cf-tunnel",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "96.38%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.83%",
+    "uptimeDay": "92.64%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.83%",
     "time": 570,
     "timeDay": 384,
     "timeWeek": 527,
     "timeMonth": 565,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2023-02-04": 52
+      "2023-02-04": 106
     }
   }
 ]
