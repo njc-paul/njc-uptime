@@ -40,7 +40,7 @@
     "url": "https://njcweb02.njcserver.com",
     "icon": "https://icons.duckduckgo.com/ip3/njcweb02.njcserver.com.ico",
     "slug": "njc-web02",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 743,
     "timeMonth": 736,
     "timeYear": 745,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-04": 0
+    }
   },
   {
     "name": "cf tunnel",
@@ -59,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dock01.njctunnel.net.ico",
     "slug": "cf-tunnel",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.95%",
     "time": 570,
     "timeDay": 384,
     "timeWeek": 527,
     "timeMonth": 565,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2023-02-04": 0
+      "2023-02-04": 33
     }
   }
 ]
