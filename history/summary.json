@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.02%",
     "time": 1355,
-    "timeDay": 1152,
-    "timeWeek": 937,
-    "timeMonth": 925,
-    "timeYear": 1249,
+    "timeDay": 1251,
+    "timeWeek": 946,
+    "timeMonth": 927,
+    "timeYear": 1247,
     "dailyMinutesDown": {
       "2023-09-25": 1124,
       "2023-09-24": 1440,
@@ -38,9 +38,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 521,
-    "timeDay": 503,
-    "timeWeek": 449,
-    "timeMonth": 408,
+    "timeDay": 467,
+    "timeWeek": 443,
+    "timeMonth": 406,
     "timeYear": 484,
     "dailyMinutesDown": {
       "2023-08-11": 80,
@@ -60,9 +60,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.28%",
     "time": 606,
-    "timeDay": 529,
-    "timeWeek": 465,
-    "timeMonth": 407,
+    "timeDay": 474,
+    "timeWeek": 459,
+    "timeMonth": 406,
     "timeYear": 580,
     "dailyMinutesDown": {
       "2023-09-17": 681,
@@ -82,7 +82,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dock01.njctunnel.net.ico",
     "slug": "cf-tunnel",
     "status": "down",
-    "uptime": "10.15%",
+    "uptime": "10.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -91,9 +91,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 158,
+    "timeYear": 162,
     "dailyMinutesDown": {
-      "2024-02-15": 50,
+      "2024-02-16": 49,
+      "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
@@ -456,8 +457,7 @@
       "2023-02-20": 1440,
       "2023-02-19": 1440,
       "2023-02-18": 1440,
-      "2023-02-17": 1440,
-      "2023-02-16": 1440
+      "2023-02-17": 1440
     }
   }
 ]
