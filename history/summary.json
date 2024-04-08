@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.02%",
-    "time": 1286,
-    "timeDay": 1184,
-    "timeWeek": 879,
-    "timeMonth": 899,
-    "timeYear": 1080,
+    "time": 1285,
+    "timeDay": 878,
+    "timeWeek": 900,
+    "timeMonth": 904,
+    "timeYear": 1078,
     "dailyMinutesDown": {
       "2023-09-25": 1124,
       "2023-09-24": 1440,
@@ -37,10 +37,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 505,
-    "timeDay": 517,
-    "timeWeek": 385,
-    "timeMonth": 378,
-    "timeYear": 450,
+    "timeDay": 318,
+    "timeWeek": 382,
+    "timeMonth": 379,
+    "timeYear": 449,
     "dailyMinutesDown": {
       "2023-08-11": 80,
       "2023-07-18": 418,
@@ -59,10 +59,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.28%",
     "time": 579,
-    "timeDay": 531,
-    "timeWeek": 373,
-    "timeMonth": 376,
-    "timeYear": 528,
+    "timeDay": 319,
+    "timeWeek": 377,
+    "timeMonth": 375,
+    "timeYear": 527,
     "dailyMinutesDown": {
       "2023-09-17": 681,
       "2023-09-16": 1440,
@@ -81,7 +81,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dock01.njctunnel.net.ico",
     "slug": "cf-tunnel",
     "status": "down",
-    "uptime": "9.03%",
+    "uptime": "9.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -92,7 +92,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-07": 55,
+      "2024-04-08": 52,
+      "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
@@ -455,8 +456,7 @@
       "2023-04-13": 1440,
       "2023-04-12": 1440,
       "2023-04-11": 1440,
-      "2023-04-10": 1440,
-      "2023-04-09": 1440
+      "2023-04-10": 1440
     }
   }
 ]
