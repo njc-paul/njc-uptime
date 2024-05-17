@@ -10,9 +10,7 @@ sites:
     url: https://njcweb01.njcserver.com
   - name: NJC Web02
     url: https://njcweb02.njcserver.com
-  - name: cf tunnel
-    url: https://dock01.njctunnel.net/login
- 
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -25,7 +23,7 @@ status-website:
   introTitle: "**NJC Service Status**"
   introMessage: Keeping you up to date with the status of our services in real-time.
   navbar:
-    - title: Status
+    - title: NJC Status
       href: /
     - title: NJC
       href: https://www.notjustcomputers.co.uk
