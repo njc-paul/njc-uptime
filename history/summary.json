@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.01%",
-    "time": 974,
-    "timeDay": 854,
-    "timeWeek": 963,
-    "timeMonth": 932,
+    "time": 975,
+    "timeDay": 902,
+    "timeWeek": 984,
+    "timeMonth": 921,
     "timeYear": 927,
     "dailyMinutesDown": {
       "2024-06-01": 572,
@@ -35,10 +35,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 421,
-    "timeDay": 314,
-    "timeWeek": 395,
-    "timeMonth": 385,
+    "time": 420,
+    "timeDay": 298,
+    "timeWeek": 392,
+    "timeMonth": 378,
     "timeYear": 383,
     "dailyMinutesDown": {
       "2024-06-01": 571
@@ -50,23 +50,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/njcweb02.njcserver.com.ico",
     "slug": "njc-web02",
     "status": "up",
-    "uptime": "98.92%",
+    "uptime": "98.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.22%",
-    "time": 466,
-    "timeDay": 289,
-    "timeWeek": 385,
-    "timeMonth": 382,
+    "uptimeYear": "98.40%",
+    "time": 465,
+    "timeDay": 283,
+    "timeWeek": 379,
+    "timeMonth": 374,
     "timeYear": 379,
     "dailyMinutesDown": {
       "2024-06-01": 571,
       "2023-09-17": 681,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
-      "2023-09-14": 1440,
-      "2023-09-13": 1440
+      "2023-09-14": 1440
     }
   }
 ]
