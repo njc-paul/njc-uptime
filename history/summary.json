@@ -5,20 +5,19 @@
     "icon": "https://www.notjustcomputers.co.uk/favicon.ico",
     "slug": "njc-website",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.14%",
-    "time": 979,
-    "timeDay": 729,
-    "timeWeek": 987,
+    "uptimeYear": "99.41%",
+    "time": 978,
+    "timeDay": 817,
+    "timeWeek": 925,
     "timeMonth": 956,
-    "timeYear": 923,
+    "timeYear": 920,
     "dailyMinutesDown": {
       "2024-06-01": 572,
-      "2024-05-16": 16,
-      "2023-09-25": 1124
+      "2024-05-16": 16
     }
   },
   {
@@ -33,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 415,
-    "timeDay": 338,
-    "timeWeek": 396,
-    "timeMonth": 380,
+    "timeDay": 297,
+    "timeWeek": 365,
+    "timeMonth": 381,
     "timeYear": 385,
     "dailyMinutesDown": {
       "2024-06-01": 571
@@ -47,15 +46,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/njcweb02.njcserver.com.ico",
     "slug": "njc-web02",
     "status": "up",
-    "uptime": "98.94%",
+    "uptime": "98.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 458,
-    "timeDay": 298,
-    "timeWeek": 396,
-    "timeMonth": 379,
+    "timeDay": 278,
+    "timeWeek": 362,
+    "timeMonth": 377,
     "timeYear": 380,
     "dailyMinutesDown": {
       "2024-06-01": 571
